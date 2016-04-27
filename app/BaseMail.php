@@ -22,7 +22,7 @@ abstract class BaseMail
 
     public function send($person, $view, $data, $subject)
     {
-        $view = view_path($view);
+        //$view = view_path($view);
 
         \Mail::send($view, $data, function($message) use($person, $subject)
         {
