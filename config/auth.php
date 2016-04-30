@@ -23,7 +23,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | When using the "Eloquent" authentication driver, we need to know which
-    | Eloquent model should be used to retrieve your users. Of course, it
+    | Eloquent model should be used to retrieve your users. Of core, it
     | is often just the "User" model but you may use whatever you like.
     |
     */

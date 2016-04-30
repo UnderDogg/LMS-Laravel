@@ -78,7 +78,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | When using the "database" session driver, you may specify the table we
-    | should use to manage the sessions. Of course, a sensible default is
+    | should use to manage the sessions. Of core, a sensible default is
     | provided for you; however, you are free to change this as needed.
     |
     */
